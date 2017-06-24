@@ -5,6 +5,9 @@
  * @version $Id$
  */
 
+//
+
+
 $(document).ready(function() {
 	/* Every time the window is scrolled ... */
 	$(window).scroll( function(){
